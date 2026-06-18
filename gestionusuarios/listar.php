@@ -7,5 +7,9 @@
 </head>
 <body>
     <h1>Listado de Usuarios</h1>
+    <form action="listar.php" method="post">
+        <input type="text" name="nombre" placeholder="Nombre">
+        <input type="submit" value="Buscar">
+    </form>
 </body>
 </html>
