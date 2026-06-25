@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nostros</title>
-    <link rel="stylesheet" href="../../view/nosotros/nostros.php">
+    <link rel="stylesheet" href="../../assets/css/styleNosotros/nosotros.css">
 </head>
 <body>
     <h2>Bienvenidos a la pagina de Nosotros </h2>
