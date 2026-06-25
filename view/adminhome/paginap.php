@@ -4,12 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trabajemos juntos</title>
-    <link rel="stylesheet" href="css/estilos.css">
+    <link rel="stylesheet" href="../adminhome/assets/css/estilos.css">
 </head>
 <body>
     <h1>Trabajemos juntos con GitHub</h1>
     <h2>Bienvenid@s a Nuestra Página</h2>
-    <img src="images/inicio.png" alt="">
+    <img src="assets/images/inicio.png" alt="">
+    
     
 </body>
 </html>
