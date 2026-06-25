@@ -1,6 +1,7 @@
+<header>
 <nav class="navegacion navbar navbar-expand-sm navbar-dark bg-dark">
   <div class="container-fluid">
-    <a class="navbar-inicio navbar-brand" href="/">Laravel</a>
+    <a class="navbar-inicio navbar-brand" href="#">⭐</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -22,3 +23,4 @@
     </div>
   </div>
 </nav>
+</header>
